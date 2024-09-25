@@ -1,0 +1,9 @@
+import java.lang.*;
+import java.io.*;
+class demo24
+{
+public static void   main(string arg[])
+{
+system.out.print/n("welcome to java programmes");
+}
+}
